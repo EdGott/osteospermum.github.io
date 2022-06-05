@@ -1,0 +1,126 @@
+  * {
+    padding: 10px;
+    margin: 0;
+  }
+  
+  
+  
+  nav {
+    text-align: center;
+  }
+  
+  nav li {
+    border: 5px inset green;
+    border-radius: 15px;
+    display: inline-block;
+    width: 110px;
+    position: relative;
+    padding: 0%;
+    background-color: rgb(201, 117, 6);
+  }
+  
+  
+  nav li a {
+    font-size: 20px;
+    box-sizing: border-box;
+    display: block;
+  }
+  
+  a {
+    color: rgb(20, 100, 0);
+  }
+
+  a:hover {
+    color: rgb(153, 22, 153);
+  }
+  
+  body {
+    /*
+    background-image: url("https://www.peacetreefarm.com/wp-content/uploads/sites/6/2019/06/Osteospermum_Zion_Purple_Sun_Bloom_24766.jpg");
+    */
+    background-color: orangered;
+    font-family: "Times New Roman";
+    margin-left: 20%;
+    margin-right: 20%;
+  }
+  
+  main {
+    position: relative;
+    background-color: orange;
+    text-align: center;
+    border: 10px double green;
+  }
+
+  em {
+    position: relative;
+    padding: 0;
+  }
+  
+  p {
+    font-family: "Times New Roman";
+    color: black;
+    text-align: left;
+    font-weight: bold;
+    font-size: 18px;
+  }
+  
+  ul {
+    list-style: none;
+  }
+
+  .care {
+    color: black;
+    text-align: center;
+  }
+  
+  .facts p {
+    position: relative;
+    text-align: center;
+    padding: 15px;
+  }
+
+  .flowers {
+    width: 250px;
+    display: inline-block;
+  }
+  
+  .bottom {
+    position: relative;
+    color: black;
+    margin-right: 20%;
+    bottom: 10px;
+    right: 10px;
+  }
+
+  .title {
+    color: rgb(2, 80, 2);
+    text-align: center;
+    font-family: "Times New Roman";
+    background-color: orangered;
+    position: relative;
+  }
+
+  #wikipedia {
+    position: relative;
+    padding: 0;
+  }
+
+  #constanttitle {
+    border-bottom: 3px solid rgb(2, 80, 2);
+  }
+  
+  #osteo-list {
+    text-align: center;
+    list-style-type: none;
+    margin-left: 50%;
+    margin-right: 50%;
+  }
+
+  #usda-zones {
+    position: relative;
+    display: inline;
+    width: 75%;
+  }
+
+
+
